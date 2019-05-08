@@ -1,6 +1,6 @@
 {
 	"file": "sampleData1",
 	"name": "john",
-	"age": age,
+	"age": 25,
 	"color": "green"
 }
